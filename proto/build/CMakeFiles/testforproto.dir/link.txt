@@ -1,1 +1,1 @@
-/usr/bin/g++   -std=c++11   CMakeFiles/testforproto.dir/src/testforproto.cc.o  -o testforproto  -L/disk1/chenqihang/own_project/proto/lib -lc++ -lprotobuf -lprotoc -lprotolib -Wl,-rpath,/disk1/chenqihang/own_project/proto/lib 
+/usr/bin/g++   -std=c++11   CMakeFiles/testforproto.dir/src/testforproto.cc.o  -o out/testforproto  -L/disk1/chenqihang/own_project/proto/lib  -L/disk1/chenqihang/own_project/proto/build/proto_src -lc++ -lprotobuf -lprotoc -lprotolib -Wl,-rpath,/disk1/chenqihang/own_project/proto/lib:/disk1/chenqihang/own_project/proto/build/proto_src 

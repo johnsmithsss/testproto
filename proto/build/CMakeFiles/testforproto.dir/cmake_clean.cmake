@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/testforproto.dir/src/testforproto.cc.o"
-  "testforproto.pdb"
-  "testforproto"
+  "out/testforproto.pdb"
+  "out/testforproto"
 )
 
 # Per-language clean rules from dependency scanning.
