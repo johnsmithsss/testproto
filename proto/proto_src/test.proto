@@ -1,0 +1,13 @@
+syntax = "proto3"; // proto3 必须加此注解
+
+message test {
+    int32 a = 1;
+    int32 b = 2;
+    enum type
+    {
+        TYPE_ID_1 = 0;
+        TYPE_ID_2 = 1;
+        TYPE_ID_3 = 2;
+        TYPE_ID_4 = 3;
+    }
+}

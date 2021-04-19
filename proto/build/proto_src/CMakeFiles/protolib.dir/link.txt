@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libprotolib.so -o libprotolib.so CMakeFiles/protolib.dir/test.pb.cc.o  -L/disk1/chenqihang/own_project/proto/lib -lc++ -lprotobuf -lprotoc -Wl,-rpath,/disk1/chenqihang/own_project/proto/lib 

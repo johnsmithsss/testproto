@@ -1,0 +1,6 @@
+/disk1/chenqihang/own_project/proto/build/CMakeFiles/edit_cache.dir
+/disk1/chenqihang/own_project/proto/build/CMakeFiles/rebuild_cache.dir
+/disk1/chenqihang/own_project/proto/build/CMakeFiles/testforproto.dir
+/disk1/chenqihang/own_project/proto/build/proto_src/CMakeFiles/edit_cache.dir
+/disk1/chenqihang/own_project/proto/build/proto_src/CMakeFiles/rebuild_cache.dir
+/disk1/chenqihang/own_project/proto/build/proto_src/CMakeFiles/protolib.dir
